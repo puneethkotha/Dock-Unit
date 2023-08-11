@@ -16,6 +16,7 @@ A simple Flutter app that demonstrates mobile phone OTP authentication using Fir
 - Firebase integration for secure and seamless OTP verification.
   
 ## Preview
+https://github.com/puneethkotha/flutter/assets/85823685/0f2e6fa7-2601-4651-a9fb-3f86bd09bb2f
 
 ## Getting Started
 
