@@ -6,8 +6,7 @@ A simple Flutter app that demonstrates mobile phone OTP authentication using Fir
 ## Screenshots
 
 
-[Login Page](/Screenshots/login.png)
-[OTP Verification Page](/Screenshots/otp_auth.png) 
+
 
 ## Features
 
@@ -19,5 +18,28 @@ A simple Flutter app that demonstrates mobile phone OTP authentication using Fir
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/your-username/your-repo.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd your-repo
+ ```
+3. Install dependencies:
+```bash
+flutter pub get
+```
+4. Configure Firebase:
+- Create a new Firebase project and enable phone authentication.
+- Add your Firebase configuration to android/app/google-services.json for Android and 'ios/Runner/GoogleService-Info.plist' for iOS.
+5. Run the app:
+```bash
+flutter run
+  ```
+## Contributing
+Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or a pull request.
+
+## License
+This project is licensed under the MIT License.
+  
