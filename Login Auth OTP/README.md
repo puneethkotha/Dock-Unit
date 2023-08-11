@@ -4,8 +4,9 @@
 A simple Flutter app that demonstrates mobile phone OTP authentication using Firebase. The app consists of two pages: a login page where users enter their phone number, and an OTP verification page where users enter the OTP received on their phone.
 
 ## Screenshots
-
-
+![1](https://ibb.co/2y3nzWS)
+![2](https://ibb.co/FBdzN3Z)
+https://streamable.com/5weibn
 
 
 ## Features
