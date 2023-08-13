@@ -2,7 +2,8 @@
 
 This is a Link-in-bio-app app that provides a sleek and modern user interface for visualizing data and managing various aspects of your application. The dashboard is built using Flutter, a popular framework for building cross-platform mobile applications.
 
-![PUNEETH (6)](https://github.com/puneethkotha/puneethkotha/assets/85823685/94542f94-2be8-4034-aeac-2f670d80369b)
+![PUNEETH (7)](https://github.com/puneethkotha/puneethkotha/assets/85823685/6f3ce8dd-ba1f-4610-a21e-657eb382140f)
+
 
 
 ## Features
