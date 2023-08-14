@@ -5,7 +5,9 @@ A simple Flutter app that demonstrates mobile phone OTP authentication using Fir
 
 ![PUNEETH](https://github.com/puneethkotha/puneethkotha/assets/85823685/699dd746-f5fe-4129-aa01-f56d40358eaf)
 
-[View on Dribbble](https://dribbble.com/shots/22265449-Peach-UI?utm_source=Clipboard_Shot&utm_campaign=puneeth_kotha&utm_content=Peach%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=puneeth_kotha&utm_content=Peach%20UI&utm_medium=Social_Share)
+<a href="https://dribbble.com/puneeth_kotha">
+        <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
+    </a>
 
 
 
