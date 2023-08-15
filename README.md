@@ -26,7 +26,7 @@ https://github.com/puneethkotha/flutter/assets/85823685/0f2e6fa7-2601-4651-a9fb-
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/puneethkotha/Link-in-bio-app
 ```
 
 2. Navigate to the project directory:
@@ -40,6 +40,7 @@ flutter pub get
 4. Configure Firebase:
 - Create a new Firebase project and enable phone authentication.
 - Add your Firebase configuration to android/app/google-services.json for Android and 'ios/Runner/GoogleService-Info.plist' for iOS.
+  
 5. Run the app:
 ```bash
 flutter run
