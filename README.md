@@ -3,13 +3,13 @@
 
 A simple Flutter app that demonstrates mobile phone OTP authentication using Firebase. The app consists of two pages: a login page where users enter their phone number, and an OTP verification page where users enter the OTP received on their phone.
 
-![PUNEETH](https://github.com/puneethkotha/puneethkotha/assets/85823685/699dd746-f5fe-4129-aa01-f56d40358eaf)
+
+![original-4b48bfcabac64888ef0e253685e5b31a](https://github.com/user-attachments/assets/b3154d02-591b-48e4-bda7-2f821fdbd65e)
+
 
 <a href="https://dribbble.com/puneeth_kotha">
         <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
     </a>
-
-
 
 
 ## Features
@@ -19,14 +19,14 @@ A simple Flutter app that demonstrates mobile phone OTP authentication using Fir
 - Firebase integration for secure and seamless OTP verification.
   
 ## Preview
-https://github.com/puneethkotha/flutter/assets/85823685/0f2e6fa7-2601-4651-a9fb-3f86bd09bb2f
+(will be available soon)
 
 ## Getting Started
 
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/puneethkotha/Link-in-bio-app
+   git clone https://github.com/puneethkotha/Dock-Unit
 ```
 
 2. Navigate to the project directory:
