@@ -1,5 +1,5 @@
 
-# Flutter Mobile Phone OTP Authentication App
+# Flutter App
 
 A simple Flutter app that demonstrates mobile phone OTP authentication using Firebase. The app consists of two pages: a login page where users enter their phone number, and an OTP verification page where users enter the OTP received on their phone.
 
